@@ -1,0 +1,6 @@
+Steps to run:
+Simply download this directory and store it into Kathara P4 directory.
+Goto this newly dowloanded directory and type "kathara lstart" to lanuch the simulation.
+From h1 xterm, goto shared folder and run send.py using 'python3 send.py 10.0.0.4'
+Open xetrm of h4 and goto shared folder then run 'python3 receive.py'
+OUTPUT: in-network teelmetry for s1, s2 and s3 withn swid 1,2 and 3.
